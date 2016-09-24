@@ -1,0 +1,12 @@
+Run program as a script './name.py'
+Requirements:
+  *Python2.7
+  *Needs a package called pyperclip, which is to be installed using pip
+    "$pip3 install pyperclip"
+To run:
+*Select text and copy it.
+*Run program as a python code or script
+*Paste the code
+
+The above list is generated using the code.
+Great tool for anyone who is lazy or editing large texts.
